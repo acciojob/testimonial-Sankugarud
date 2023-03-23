@@ -3,21 +3,16 @@
 	background-color: #f5f5f5;
 	
 }
-.test1{
+.test{
 	margin: 0px 10px;
 	display: flex;
 	justify-content: space-between;
+	background-color: white;
+	padding: 10px;
 }
-p{
-	display:flex;
-	test-align: right;
-}
+
 .side{
 	display:flex;
-	align-items:flex-end;
-}
-.test2{
-	margin: 0px 10px;
-	display: flex;
-	justify-content: space-between;
+	text-align: end;
+	align-items: flex-end;
 }
