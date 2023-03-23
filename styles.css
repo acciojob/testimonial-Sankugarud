@@ -12,7 +12,7 @@ p{
 	display:flex;
 	test-align: right;
 }
-span{
+.side{
 	display:flex;
 	align-items:flex-end;
 }
