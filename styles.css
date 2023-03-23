@@ -10,12 +10,10 @@
 	background-color: white;
 	padding: 10px;
 }
-p{
-	text-align:right;
-}
+
 .side{
 	display:flex;
-	text-align: end;
+	text-align:right;
 	align-items: flex-end;
 	font-style: italic;
 }
