@@ -8,6 +8,10 @@
 	display: flex;
 	justify-content: space-between;
 }
+p{
+	display:flex;
+	test-align: right;
+}
 span{
 	display:flex;
 	align-items:flex-end;
